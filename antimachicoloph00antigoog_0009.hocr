@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antimachicoloph00antigoog_0009.png"; bbox 0 0 2880 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 3206 849 3296">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 3206 849 3296">
+     <span class='ocr_line' id='line_1_1' title="bbox 465 3206 849 3244; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 465 3208 485 3236; x_wconf 68' lang='lat' dir='ltr'>t.</span> <span class='ocrx_word' id='word_1_2' title='bbox 497 3206 677 3244; x_wconf 67' lang='lat' dir='ltr'>W1117·&#39;1·!.x011ffl,</span> <span class='ocrx_word' id='word_1_3' title='bbox 685 3207 756 3237; x_wconf 73' lang='lat' dir='ltr'><strong>Tooxs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 767 3209 849 3244; x_wconf 76' lang='grc' dir='ltr'>οοιικτ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 564 3265 763 3296; baseline 0.005 -3"><span class='ocrx_word' id='word_1_5' title='bbox 564 3265 685 3296; x_wconf 63' lang='lat' dir='ltr'>emnem</span> <span class='ocrx_word' id='word_1_6' title='bbox 699 3267 763 3296; x_wconf 67' lang='lat' dir='ltr'>mun.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1444 4792">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1444 4792">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1444 4792; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1444 4792; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
